@@ -1,0 +1,24 @@
+****** Warehouse Management Systen - PHP CodeIgniter *************
+****************************************
+**Recommended PHP Version 7**
+
+****************************************************************
+**Admin Login Details**
+
+Username: admin
+Password: Password@123
+****************************************************************
+
+****************************************************************
+Developed by: Ali Abdul Wahid
+Published @: [https://codeastro.com/warehouse-management-system-in-php-codeigniter-with-source-code/]
+****************************************************************
+
+
+
+****************************************************************
+Customized By: oretnom23
+Published @: [https://sourcecodester.com/php-codeigniter-warehouse-management-system-free-source-code/]
+****************************************************************
+
+
